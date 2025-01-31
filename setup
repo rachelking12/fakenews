@@ -1,0 +1,11 @@
+numpy
+pandas
+seaborn
+matplotlib
+torch 
+torchvision 
+torchaudio
+cuda toolkit
+transformers
+tf-keras
+spacy
