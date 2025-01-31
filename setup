@@ -8,3 +8,4 @@ torchaudio
 cuda toolkit
 transformers
 tf-keras
+spacy
